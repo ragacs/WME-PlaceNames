@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name       WME PlaceNames
-// @version    0.80
+// @version    0.81
 // @description  Show area and point place names in WME, color and highlight places by type and properties
-// @include             https://www.waze.com/editor/*
-// @include             https://www.waze.com/*/editor/*
-// @include             https://beta.waze.com/editor/*
-// @include             https://beta.waze.com/*/editor/*
+// @include             https://www.waze.com/editor*
+// @include             https://www.waze.com/*/editor*
+// @include             https://beta.waze.com/editor*
+// @include             https://beta.waze.com/*/editor*
 // @copyright  2017, ragacs
 // @namespace https://greasyfork.org/users/6330
 // @grant               none
